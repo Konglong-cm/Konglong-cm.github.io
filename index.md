@@ -16,14 +16,11 @@
 ### 1.javaweb 北京地铁查询系统
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/74ff17c1-8684-4412-8ad5-f65a69629a0b" width="300px"/>
 ### 2.大数据分析北京市政信件
-<img src="" width="300px"/>
-<img src="" width="300px"/>
-<img src="" width="300px"/>
-![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831213525483-1166624278.png =300x)
-![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831213552308-2002949810.png =300x)
-![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831213621115-1271780955.png =300x)
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/bf81613d-d00b-4d5e-ba6b-de51f2bfacb4" width="300px"/>
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/549fb51d-32aa-4cba-97dc-60b8414c95bc" width="300px"/>
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/ff1ec295-7017-4ecf-8f7a-843612b4b584" width="300px"/>
 ### 3.使用JFinal的学生选课系统
-![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831214918423-1608309210.png =500x)
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/e767920f-dc6f-450e-8330-44333cab86be" width="500px"/>
 ### 4.javaweb科技政策查询系统
 ![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831214717408-773531380.png =500x)
 ### 5.javaweb老年病能力评估系统
