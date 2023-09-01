@@ -16,42 +16,42 @@
 # 三、社会活动情况
 *无实习经历，做过服务员兼职，献过血。*
 # 四、专业实践情况
-### 1.javaweb 北京地铁查询系统
+### 1. javaweb 北京地铁查询系统
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/74ff17c1-8684-4412-8ad5-f65a69629a0b" width="300px"/>
 
-### 2.大数据分析北京市政信件
+### 2. 大数据分析北京市政信件
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/bf81613d-d00b-4d5e-ba6b-de51f2bfacb4" width="300px"/><br/>
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/549fb51d-32aa-4cba-97dc-60b8414c95bc" width="300px"/><br/>
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/e767920f-dc6f-450e-8330-44333cab86be" width="300px"/>
 
-### 3.使用JFinal的学生选课系统
+### 3. 使用JFinal的学生选课系统
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/ff1ec295-7017-4ecf-8f7a-843612b4b584" width="700px"/>
 
-### 4.javaweb科技政策查询系统
+### 4. javaweb科技政策查询系统
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/3abd6fd7-5104-491b-ae8f-af871e7f3dd0" width="500px"/>
 
-### 5.javaweb老年病能力评估系统
+### 5. javaweb老年病能力评估系统
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/06d8cc5c-50d3-4dcc-b11d-ab955c08657a" width="300px"/>
 
-### 6.java的GUI
+### 6. java的GUI
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/0ff5985f-7751-4d2c-b1ce-c1f4da19e877" width="300px"/>
 
-### 7.大数据爬取京东评论并进行分析
+### 7. 大数据爬取京东评论并进行分析
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/12b5925c-3201-474d-a421-43c9dbc18ec8" width="300px"/>
 
-### 8.大数据民航机票代理市场的预测及可视化
+### 8. 大数据民航机票代理市场的预测及可视化
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/3cebd398-645e-4d02-8d23-db388fd5b335" width="500px"/>
 
-### 9.c#的学生信息管理系统
+### 9. c#的学生信息管理系统
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/1bf22682-a0ac-4b1d-9d29-5b687475f766" width="500px"/>
 
-### 10.php的淘宝商城
+### 10. php的淘宝商城
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/c13337e1-d213-4314-9373-82407593cfae" width="500px"/><br/>
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/b3a91d66-824b-4008-94f5-b1f8c4e32da8" width="500px"/><br/>
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/879329d0-160c-4282-a406-fefdc62bf8bd" width="500px"/><br/>
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/09d65908-291b-4ca3-add4-b28dc6ce7c97" width="500px"/>
 
-### 11.安卓记录心情软件
+### 11. 安卓记录心情软件
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/610e56b2-434a-4b7f-8a0a-25f0d8d85fcf" width="200px"/>
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/0edb058f-7a8d-4360-b2a2-91d5704ca4b8" width="200px"/>
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/06b1e929-745f-4216-aa71-eb8b97474d20" width="200px"/>
