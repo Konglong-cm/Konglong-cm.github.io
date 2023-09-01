@@ -1,21 +1,21 @@
 🚀 🌍 🌱 🔮 ✨ 🔥 
-# 一、个人简历
+# 一、🌱个人简历
 - *姓名：陈名扬*
 - *年龄：21*
 - *性别：女*
 - *联系电话：13231490465*
 - *教育背景：2020.09~2024.09 石家庄铁道大学 软件工程*
 
-# 二、学习情况
+# 二、🌍学习情况
 - *2020.09-2021.06大一在材料科学与技术学院焊接专业学习，后转专业来到信息科学与技术学院软件工程学习；*
 - *2021.09-2021.12大二上学期学习了javaweb，算法与数据结构，重修了C语言；*
 - *2022.02-2022.06大二下学期学习了安卓，计算机网络，php语言，数据库原理，补修了c++课程；*
 - *2022.09-2022.12大三上学期学习了大数据方面的知识，同样是一知半解，学习了hadoop相关的知识，数据清洗和数据可视化等，以及c#语言；*
 - *2023.02-2023.06大三下学期参加了中国软件杯的比赛，由于之前没有接触过人工智能方面的知识，参加比赛的过程举步维艰，经常因为一些小问题就耽误好几天，所以没有入围，但是还是收获了很多知识和经验。*
 
-# 三、社会活动情况
+# 三、✨社会活动情况
 *无实习经历，做过服务员兼职，献过血。*
-# 四、专业实践情况
+# 四、🔥专业实践情况
 ### 1. javaweb 北京地铁查询系统
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/74ff17c1-8684-4412-8ad5-f65a69629a0b" width="300px"/>
 
@@ -56,9 +56,9 @@
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/0edb058f-7a8d-4360-b2a2-91d5704ca4b8" width="200px"/>
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/06b1e929-745f-4216-aa71-eb8b97474d20" width="200px"/>
 
-# 五、专业技能展示：
+# 五、🔮专业技能展示：
 *可以使用Idea开发简单的web网站，熟练操作mysql数据库以及hive数据库，会使用基本的python语言，c++语言，php语言以及c#语言，能够分析一定数量的数据并进行可视化展示，掌握基本的linux命令等。*
-# 六、专业博客发表：
+# 六、🚀专业博客发表：
 - 博客园地址：<https://www.cnblogs.com/konglong-cm/>
 其中较有代表性的文章有：[解决软件打开白屏问题](https://www.cnblogs.com/konglong-cm/p/16196078.html)，[根据ip获得城市地址](https://www.cnblogs.com/konglong-cm/p/16803769.html)等。<br/>
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/8ddee3b7-2c5a-4aa7-bc77-530e7cf8e1c9" width="200px"/>
