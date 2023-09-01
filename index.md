@@ -33,9 +33,10 @@
 ### 6.java的GUI
 <img src="" width="500px"/>
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/0ff5985f-7751-4d2c-b1ce-c1f4da19e877" width="300px"/>
-![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831213133747-2035859194.png =300x)
+
 ### 7.大数据爬取京东评论并进行分析
-![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831213334649-1410530266.png =300x)
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/12b5925c-3201-474d-a421-43c9dbc18ec8" width="300px"/>
+
 ### 8.大数据民航机票代理市场的预测及可视化
 ![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831220314912-15239847.png =500x)
 ### 9.c#的学生信息管理系统
