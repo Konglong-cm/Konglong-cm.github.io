@@ -22,12 +22,15 @@
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/e767920f-dc6f-450e-8330-44333cab86be" width="300px"/>
 
 ### 3.使用JFinal的学生选课系统
-<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/ff1ec295-7017-4ecf-8f7a-843612b4b584" width="500px"/>
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/ff1ec295-7017-4ecf-8f7a-843612b4b584" width="700px"/>
 
 ### 4.javaweb科技政策查询系统
-![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831214717408-773531380.png =500x)
+<img src="" width="500px"/>
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/3abd6fd7-5104-491b-ae8f-af871e7f3dd0" width="500px"/>
+
 ### 5.javaweb老年病能力评估系统
-![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831215134060-1728969796.png =300x)
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/06d8cc5c-50d3-4dcc-b11d-ab955c08657a" width="300px"/>
+
 ### 6.java的GUI
 ![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831213133747-2035859194.png =300x)
 ### 7.大数据爬取京东评论并进行分析
