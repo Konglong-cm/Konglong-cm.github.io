@@ -25,13 +25,14 @@
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/ff1ec295-7017-4ecf-8f7a-843612b4b584" width="700px"/>
 
 ### 4.javaweb科技政策查询系统
-<img src="" width="500px"/>
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/3abd6fd7-5104-491b-ae8f-af871e7f3dd0" width="500px"/>
 
 ### 5.javaweb老年病能力评估系统
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/06d8cc5c-50d3-4dcc-b11d-ab955c08657a" width="300px"/>
 
 ### 6.java的GUI
+<img src="" width="500px"/>
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/0ff5985f-7751-4d2c-b1ce-c1f4da19e877" width="300px"/>
 ![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831213133747-2035859194.png =300x)
 ### 7.大数据爬取京东评论并进行分析
 ![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831213334649-1410530266.png =300x)
