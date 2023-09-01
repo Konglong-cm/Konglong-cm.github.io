@@ -31,16 +31,17 @@
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/06d8cc5c-50d3-4dcc-b11d-ab955c08657a" width="300px"/>
 
 ### 6.java的GUI
-<img src="" width="500px"/>
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/0ff5985f-7751-4d2c-b1ce-c1f4da19e877" width="300px"/>
 
 ### 7.大数据爬取京东评论并进行分析
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/12b5925c-3201-474d-a421-43c9dbc18ec8" width="300px"/>
 
 ### 8.大数据民航机票代理市场的预测及可视化
-![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831220314912-15239847.png =500x)
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/3cebd398-645e-4d02-8d23-db388fd5b335" width="500px"/>
+
 ### 9.c#的学生信息管理系统
-![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831221637297-1652993098.png =500x)
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/1bf22682-a0ac-4b1d-9d29-5b687475f766" width="500px"/>
+
 ### 10.php的淘宝商城
 ![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831221911998-1289533496.png =500x)
 ![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831221941296-1751754977.png =500x)
