@@ -49,7 +49,10 @@
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/09d65908-291b-4ca3-add4-b28dc6ce7c97" width="500px"/>
 
 ### 11.安卓记录心情软件
-![](https://img2023.cnblogs.com/blog/2594671/202309/2594671-20230901084150242-364290252.jpg =200x)![](https://img2023.cnblogs.com/blog/2594671/202309/2594671-20230901084153921-2004981230.jpg =200x)![](https://img2023.cnblogs.com/blog/2594671/202309/2594671-20230901084204540-1824846330.jpg =200x)
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/610e56b2-434a-4b7f-8a0a-25f0d8d85fcf" width="200px"/>
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/0edb058f-7a8d-4360-b2a2-91d5704ca4b8" width="200px"/>
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/06b1e929-745f-4216-aa71-eb8b97474d20" width="200px"/>
+
 # 五、专业技能展示：
 *可以使用Idea开发简单的web网站，熟练操作mysql数据库以及hive数据库，会使用基本的python语言，c++语言，php语言以及c#语言，能够分析一定数量的数据并进行可视化展示，掌握基本的linux命令等。*
 # 六、专业博客发表：
