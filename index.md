@@ -21,10 +21,10 @@
 
 <img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/549fb51d-32aa-4cba-97dc-60b8414c95bc" width="300px"/>
 
-<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/ff1ec295-7017-4ecf-8f7a-843612b4b584" width="300px"/>
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/e767920f-dc6f-450e-8330-44333cab86be" width="300px"/>
 
 ### 3.使用JFinal的学生选课系统
-<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/e767920f-dc6f-450e-8330-44333cab86be" width="500px"/>
+<img src="https://github.com/Konglong-cm/Konglong-cm.github.io/assets/100991980/ff1ec295-7017-4ecf-8f7a-843612b4b584" width="500px"/>
 ### 4.javaweb科技政策查询系统
 ![](https://img2023.cnblogs.com/blog/2594671/202308/2594671-20230831214717408-773531380.png =500x)
 ### 5.javaweb老年病能力评估系统
